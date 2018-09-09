@@ -3,9 +3,18 @@
 pythonの学習記録。読んだだけでそれを道具のように扱うことができるなんて嘘っぱちだと思うので、実際に手を動かしていく。その記録。
 あとはpythonにまつわるチップスとかを。
 
+ほかにもplaygroundの記録として。
 
+## python の closureってなに？
+
+`effective_python/02/pt15_closure.py` を見てくれッ
 
 ## 真理値表
+
+Falseになるもの一覧
+ - int: 0
+ - str: ''
+ - arr: ['']
 
 
 ## printで使う変数の代数なんだっけ…
